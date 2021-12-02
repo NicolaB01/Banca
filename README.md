@@ -1,0 +1,1 @@
+Un programma per visualizzare una semplice interfaccia grafica per fare il login o register di un utente in una banca, una finestra per osservare i movimenti sul conto e un piccolo database degli utenti su file. 
